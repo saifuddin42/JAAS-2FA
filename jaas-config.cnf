@@ -1,0 +1,3 @@
+MyLoginContext {
+    MyLoginModule required;
+};
